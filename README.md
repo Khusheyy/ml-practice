@@ -33,7 +33,7 @@
 | 💻 Project                            | 📄 Description                                 | 📌 Status     |
 |--------------------------------------|------------------------------------------------|---------------|
 | `cat-vs-non-cat-classifier/`         | Basic image classifier with NumPy              | ✅ Done        |
-| `linear-svm-demo/`                   | Visual + code explanation of linear SVM        | 🛠 In Progress |
+| `linear-svm-demo/`                   | Visual + code explanation of linear SVM        | ✅ Done
 | `opencv-mini-projects/`             | Fun visual tools built using OpenCV            | 🛠 In Progress |
 
 ---
